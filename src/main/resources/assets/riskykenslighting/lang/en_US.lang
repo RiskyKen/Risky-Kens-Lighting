@@ -1,0 +1,30 @@
+# Block names
+tile.riskykenslighting:floodLight0.name=Very Short Flood Light
+tile.riskykenslighting:floodLight1.name=Short Flood Light
+tile.riskykenslighting:floodLight2.name=Medium Flood Light
+tile.riskykenslighting:floodLight3.name=Long Flood Light
+tile.riskykenslighting:floodLight4.name=Extra Long Flood Light
+
+tile.riskykenslighting:floodLight0.flavour=Lights up 8 blocks in front of it.
+tile.riskykenslighting:floodLight1.flavour=Lights up 16 blocks in front of it.
+tile.riskykenslighting:floodLight2.flavour=Lights up 32 blocks in front of it.
+tile.riskykenslighting:floodLight3.flavour=Lights up 64 blocks in front of it.
+tile.riskykenslighting:floodLight4.flavour=Lights up 128 blocks in front of it.
+
+tile.riskykenslighting:floodLight5.name=Very Short Phased Flood Light
+tile.riskykenslighting:floodLight6.name=Short Phased Flood Light
+tile.riskykenslighting:floodLight7.name=Medium Phased Flood Light
+tile.riskykenslighting:floodLight8.name=Long Phased Flood Light
+tile.riskykenslighting:floodLight9.name=Extra Phased Long Flood Light
+
+tile.riskykenslighting:floodLight5.flavour=Lights up 8 blocks in front of it.
+tile.riskykenslighting:floodLight6.flavour=Lights up 16 blocks in front of it.
+tile.riskykenslighting:floodLight7.flavour=Lights up 32 blocks in front of it.
+tile.riskykenslighting:floodLight8.flavour=Lights up 64 blocks in front of it.
+tile.riskykenslighting:floodLight9.flavour=Lights up 128 blocks in front of it.
+
+tile.riskykenslighting:phasedLightSponge.name=Phased Light Sponge
+tile.riskykenslighting:phasedLightSponge.flavour=Blocks phased light.
+
+# Creative tab
+itemGroup.riskykenslighting=Risky Ken's Lighting
